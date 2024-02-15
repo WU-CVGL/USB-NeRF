@@ -7,10 +7,10 @@ PyTorch implementation of rolling shutter effect correction with NeRF.<br><br>
  [Peng Wang](https://wangpeng000.github.io/)\*<sup>1,3</sup>,
  [Lingzhe Zhao](https://scholar.google.com/citations?user=mN764NsAAAAJ&hl=en)<sup>1</sup>,
  [Bangyan Liao](https://scholar.google.com/citations?user=0z2qluIAAAAJ&hl)<sup>1,3</sup>,
- [Peidong Liu](https://ethliup.github.io/)✝<sup>1,3</sup>,<br>
+ [Peidong Liu](https://ethliup.github.io/)†<sup>1,3</sup>,<br>
  <sup>1</sup>Westlake University, <sup>2</sup>ETH Zurich, <sup>3</sup>Zhejiang University  
 \* denotes equal contribution  
-✝ denotes corresponding author  
+† denotes corresponding author  
 in ICLR 2024
 
 USB-NeRF is able to correct rolling shutter distortions and recover accurate camera motion trajectory simultaneously under the framework of NeRF, by modeling the physical image formation process of a rolling shutter camera.
