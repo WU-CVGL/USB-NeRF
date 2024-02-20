@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ### 2. Download datasets
 
-You can download the data [here](https://drive.google.com/file/d/1ndBlTCaWkQv1rAPXbGSVmUqRACCvfJOl/view?usp=sharing).
+You can download the data [here](https://westlakeu-my.sharepoint.com/:f:/g/personal/cvgl_westlake_edu_cn/EtiKvq7Vm-lHhB2lkRPedGMBnn6J2J1IAElp9xjUp5Nkog?e=787xsS).
 
 After acquiring the data, your folder structure should look like
 ```
