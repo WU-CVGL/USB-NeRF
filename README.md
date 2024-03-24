@@ -1,6 +1,6 @@
 # USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields
 <!-- ### [Project Page]() | [Video]() |  -->
-### [Paper](https://arxiv.org/abs/2310.02687) | [Data](https://westlakeu-my.sharepoint.com/:f:/g/personal/cvgl_westlake_edu_cn/EtiKvq7Vm-lHhB2lkRPedGMBnn6J2J1IAElp9xjUp5Nkog)<br>
+### [Project Page](https://moyangli00.github.io/usb_nerf/) | [Paper](https://arxiv.org/abs/2310.02687) | [Data](https://westlakeu-my.sharepoint.com/:f:/g/personal/cvgl_westlake_edu_cn/EtiKvq7Vm-lHhB2lkRPedGMBnn6J2J1IAElp9xjUp5Nkog)<br>
 PyTorch implementation of rolling shutter effect correction with NeRF.<br><br>
 [USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields](https://arxiv.org/abs/2310.0268)  
  [Moyang Li](https://scholar.google.com/citations?user=Qvu8bNYAAAAJ&hl)\*<sup>1,2</sup>,
